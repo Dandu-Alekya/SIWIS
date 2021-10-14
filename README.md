@@ -24,4 +24,3 @@ Get yourself acquainted with your college now! A web app to connect college stud
     - Discussion Forum(in dynamic version)
     - Footer (social media links)
 
-> Specific event page check [LINK](./specific_eventpage.html)
